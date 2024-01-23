@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682325687146",
+    "project_id": "mini-wallet-b8198",
+    "storage_bucket": "mini-wallet-b8198.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682325687146:android:be3f66da11e18d7d8e4313",
+        "android_client_info": {
+          "package_name": "com.miniwallet.mini_wallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSFj6_YphujqdtX4LjqXdaofvjIjpSVc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
