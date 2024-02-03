@@ -7,7 +7,6 @@ Mini Wallet is a mobile app developed with Flutter for tracking and managing exp
 ## Features
 
 - **Expense Tracking:** Record and categorize your expenses.
-- **Budget Management:** Set budgets for different categories.
 - **Real-Time Updates:** Instantly sync data across devices.
 - **Authentication:** Securely log in and protect your data.
 
@@ -21,7 +20,7 @@ Mini Wallet is a mobile app developed with Flutter for tracking and managing exp
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/mini_wallet.git
+    git clone https://git@github.com:ashrafabdu96/mini_wallet.git
     ```
 
 2. **Navigate to the project directory:**
@@ -31,10 +30,6 @@ Mini Wallet is a mobile app developed with Flutter for tracking and managing exp
     ```
 
 3. **Set up Firebase:**
-
-    - Create a new Firebase project.
-    - Obtain your Firebase configuration from the Firebase Console.
-    - Replace the configuration in `lib/config/firebase_config.dart`.
 
 4. **Install dependencies:**
 
@@ -51,7 +46,6 @@ Mini Wallet is a mobile app developed with Flutter for tracking and managing exp
 ## Folder Structure
 
 - `lib/`: Flutter application source code
-- `lib/config/`: Firebase configuration file
 - ...
 
 ## Firebase Setup
@@ -59,22 +53,21 @@ Mini Wallet is a mobile app developed with Flutter for tracking and managing exp
 - **Authentication:** Enable Email/Password authentication in Firebase Console.
 - **Firestore Database:** Set up Firestore database for storing expense data.
 
-## Contributing
-
-If you would like to contribute to the project, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/new-feature`.
-3. Make your changes and commit them: `git commit -m 'Add new feature'`.
-4. Push to the branch: `git push origin feature/new-feature`.
-5. Submit a pull request.
-
 ## Authors
 
-- [Your Name]
-- [Contributor 1]
-- [Contributor 2]
+- [ashraf abdulmajeed ghaleb]
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
+## Screenshots
+![Screenshot_2024 02 03_20 21 28 984](https://github.com/ashrafabdu96/mini_wallet/assets/157527434/676a4211-b1e9-4c1a-83b6-dc7a43dd1a29)
+![Screenshot_2024 02 03_20 21 20 084](https://github.com/ashrafabdu96/mini_wallet/assets/157527434/84570ec3-cd35-4aff-9149-4c7f7d178d34)
+![Screenshot_2024 02 03_20 21 15 917](https://github.com/ashrafabdu96/mini_wallet/assets/157527434/4d22e5c0-950d-49fd-90e6-f40587b328a5)
+![Screenshot_2024 02 03_20 21 02 050](https://github.com/ashrafabdu96/mini_wallet/assets/157527434/6ef98a33-d90c-4022-9284-d190b5fad2b6)
+![Screenshot_2024 02 03_20 20 56 484](https://github.com/ashrafabdu96/mini_wallet/assets/157527434/6730f23b-6428-4e4f-8599-d24b9c853c0a)
+![Screenshot_2024 02 03_20 20 47 183](https://github.com/ashrafabdu96/mini_wallet/assets/157527434/f263e3af-e4a4-4007-bf5c-51a74d42e83f)
+![Screenshot_2024 02 03_20 19 36 583](https://github.com/ashrafabdu96/mini_wallet/assets/157527434/fb59707d-438c-456c-bc3d-2c5357245fdd)
+![Screenshot_2024 02 03_20 19 32 717](https://github.com/ashrafabdu96/mini_wallet/assets/157527434/65b2647f-d5b9-4082-8753-a214a2658dd8)
+![Screenshot_2024 02 03_20 19 25 217](https://github.com/ashrafabdu96/mini_wallet/assets/157527434/24822938-ddc6-4f0d-bb52-f7dc37633021)
+![Screenshot_2024 02 03_20 19 18 680](https://github.com/ashrafabdu96/mini_wallet/assets/157527434/1d8a4cad-daa4-44a6-b744-d6de6471fde9)
+![Screenshot_2024 02 03_20 00 24 017](https://github.com/ashrafabdu96/mini_wallet/assets/157527434/6f4ae1f6-f0f8-4e66-b648-ffb965e6df7c)
+![Screenshot_2024 02 03_20 00 01 983](https://github.com/ashrafabdu96/mini_wallet/assets/157527434/abbfb7e7-4790-40af-af69-0fac72accce5)
